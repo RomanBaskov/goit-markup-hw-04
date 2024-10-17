@@ -105,6 +105,11 @@ position: relative;
 }
 
 .nav-link.current::after {
+    color: #404BBF;
+
+}
+
+.nav-link.current::before {
     content: " ";
     position: absolute;
     left: o;
