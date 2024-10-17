@@ -429,6 +429,9 @@ display: inline-block;
         max-width: 264px;
 }
 
+.footer-link-icon{
+    background-color: #404bbf;
+}
 .footer-link-icon:hover {
     background-color: #404bbf;
 }
