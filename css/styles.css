@@ -327,7 +327,7 @@ display: block;
 }
 
 
-.social-icons-svg-list .icons-item-svg {
+.social-icons-svg-list .item{
     width: 100%;
     height: 100%;
     background-color: #4d5ae5;
@@ -338,6 +338,10 @@ display: block;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+
+.item{
+    fill: #F4F4FD;
+}
 
 /*четверта секція*/
 .communication{
@@ -426,9 +430,9 @@ display: inline-block;
 
 
 .footer-link-icon:hover {
-    background-color: #404BBF;
+    fill: #FFFFFF;
 }
 
 .footer-link-icon:focus {
-   background-color: #404bbf;
+    fill: #FFFFFF;
 }
