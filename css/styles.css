@@ -323,10 +323,8 @@ display: block;
 }
 
 .social-icons{
-    fill: #4d5ae5;
-    stroke-width: 1px;
-    stroke: #000;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    width: 40px;
+    height: 40px;
     
 }
 
@@ -344,8 +342,10 @@ display: block;
 
 .item {
     fill: #f4f4fd;
-    width: 24px;
-    height: 24px;
+}
+
+.link-icon{
+    fill: #4d5ae5;
 }
 
 /*четверта секція*/
