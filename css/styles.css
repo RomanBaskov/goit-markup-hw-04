@@ -296,7 +296,6 @@ display: block;
 
 .list-container{
     padding: 32px 0;
-    color: #404BBF;
 }
 
 .specialists-item-name{
@@ -324,15 +323,16 @@ display: block;
 }
 
 .social-icons{
-    fill: #4d5ae5;
+    background: #FFFFFF;
     width: 40px;
     height: 40px;
+    
 }
 
 .icons-item-svg {
     width: 100%;
     height: 100%;
-    background-color: #4d5ae5;
+    color: #4d5ae5;
     border-radius: 50%;
     display: flex;
     align-items: center;
