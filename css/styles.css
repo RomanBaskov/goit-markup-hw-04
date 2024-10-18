@@ -296,6 +296,7 @@ display: block;
 
 .list-container{
     padding: 32px 0;
+    height: 64px;
 }
 
 .specialists-item-name{
@@ -314,7 +315,6 @@ display: block;
     letter-spacing: 0.02em;
     color: #434455;
     text-align: center;
-    bottom: 8px;
 }
 
 .social-icons-svg-list{
@@ -328,7 +328,7 @@ display: block;
     height: 40px;
 }
 
-.social-icons .icons-item-svg{
+.social-icons .icons-item-svg .item{
     fill: #4d5ae5;
 }
 .icons-item-svg {
