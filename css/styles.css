@@ -325,7 +325,7 @@ display: block;
 .social-icons{
     width: 40px;
     height: 40px;
-    
+    fill: #4d5ae5;
 }
 
 .icons-item-svg {
@@ -344,9 +344,6 @@ display: block;
     fill: #4d5ae5;
 }
 
-.link-icon{
-    fill: #4d5ae5;
-}
 
 /*четверта секція*/
 .communication{
