@@ -338,10 +338,9 @@ display: block;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.social-icons-svg-list .icons-item-svg{
+.link-icon{
     fill: #FFFFFF;
 }
-
 
 /*четверта секція*/
 .communication{
