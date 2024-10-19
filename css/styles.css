@@ -444,8 +444,12 @@ display: block;
 .section-fourth-images{
         transform: translateY(0%);
     }
-    
+
 .fourth-section-container{
+        transform: translateY(0%);
+    }
+
+.communication-link{
         transform: translateY(0%);
     }
 
