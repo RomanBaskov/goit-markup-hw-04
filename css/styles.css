@@ -437,6 +437,10 @@ display: block;
     color: #434455;
 }
 
+.communication-item-text:hover{
+    transform: translateY(0%);
+}
+
 /*футер секція*/
 
 .page-footer{
@@ -448,7 +452,7 @@ display: block;
     margin-right: 120px;
 }
 
-.footer .container {
+.page-footer .container {
     display: flex;
     align-items: baseline;
 }
