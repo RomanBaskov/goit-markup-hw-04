@@ -444,6 +444,10 @@ display: block;
 .section-fourth-images{
         transform: translateY(0%);
     }
+    
+.fourth-section-container{
+        transform: translateY(0%);
+    }
 
 .communication-item-text{
     font-weight: 400;
