@@ -410,7 +410,7 @@ display: block;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.section-fourth-paragraph:hover {
+.communication-item:hover .section-fourth-paragraph{
     transform: translateY(0%);
 }
 
@@ -429,33 +429,6 @@ display: block;
     margin-bottom: 8px;
 }
 
-.communication-item-name:hover {
-    transform: translateY(0%);
-}
-
-.communication-item-text:hover {
-    transform: translateY(0%);
-}
-
-.communication-title{
-        transform: translateY(0%);
-    }
-
-.section-fourth-images{
-        transform: translateY(0%);
-    }
-
-.fourth-section-container{
-        transform: translateY(0%);
-    }
-
-.communication-link{
-        transform: translateY(0%);
-    }
-
-.communication-item{
-        transform: translateY(0%);
-    }
 
 .communication-item-text{
     font-weight: 400;
