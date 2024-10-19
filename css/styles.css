@@ -429,6 +429,10 @@ display: block;
     margin-bottom: 8px;
 }
 
+.communication-item-name:hover {
+    transform: translateY(0%);
+}
+
 .communication-item-text{
     font-weight: 400;
     font-size: 16px;
