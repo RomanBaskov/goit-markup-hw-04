@@ -410,7 +410,7 @@ display: block;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.section-fourth-paragraph:hover {
+.section-fourth-paragraph .communication-item-text:hover {
     transform: translateY(0%);
 }
 
@@ -437,9 +437,6 @@ display: block;
     color: #434455;
 }
 
-.communication-item-text:hover{
-    transform: translateY(0%);
-}
 
 /*футер секція*/
 
