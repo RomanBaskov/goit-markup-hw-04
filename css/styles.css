@@ -410,7 +410,7 @@ display: block;
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.section-fourth-paragraph .communication-item-text:hover {
+.section-fourth-paragraph:hover {
     transform: translateY(0%);
 }
 
