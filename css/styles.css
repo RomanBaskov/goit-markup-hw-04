@@ -433,6 +433,9 @@ display: block;
     transform: translateY(0%);
 }
 
+.communication-item-text:hover {
+    transform: translateY(0%);
+}
 .communication-item-text{
     font-weight: 400;
     font-size: 16px;
